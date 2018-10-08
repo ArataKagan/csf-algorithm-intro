@@ -1,0 +1,91 @@
+1. 
+Making coffee;
+
+    GET coffee beans, grinder, filter, water, kettle, coffee pot, coffee cup
+
+    Pour water into kettle and boil the water 
+    SET coffee beans to grinder 
+
+    WHILE the coffee bean is coarse
+        press the grinder button 
+
+    END WHILE
+
+    SET water filter to the coffee pot 
+    SET grinded coffee bean to the water filter 
+
+    REPEAT 
+        pour the hot water to the pot
+        IF the water level fills to the top 
+            stop  
+        ELSE 
+            keep pour the hot water 
+        ENDIF 
+
+        UNTIL the coffee pot is filled with coffee 
+
+    Pour the coffee to the cup 
+
+
+Washing dishes;  
+
+    GET dish detergent, sponge, a pile of dirty plates 
+
+    Mix the sponge with dish detergent 
+
+    WHILE a plate is dirty 
+        wash the plate until all the dirt comes off 
+
+    END WHILE 
+
+    Rinse the plate with water 
+
+    Place the plate into drying rack 
+
+
+Brushing teeth: 
+
+    GET tooth brush, tooth paste 
+
+    Put tooth paste onto tooth brush  
+
+    Brush every row of teeth lightly 
+
+    REPEAT 
+        Brush upper right row of teeth  
+        Brush upper left row of teeth  
+        Brush lower right row of teeth  
+        Brush lower left row of teeth  
+
+    UNTIL you don't feel coarseness on the surface of your teeth 
+
+    Rinse off the tooth paste with water in your mouth  
+
+2. 
+
+Uber : Calculate a distance betweeen passengers and drivers based on algorithm 
+
+Facebook : Predict user's demography and preference helping companies to promote
+their marketing  
+
+Netflix : Predict which movies or TV series the viewers have watched based on
+their search history and customize personal recommendation for each viewer. 
+
+3. 
+
+Efficient algorthm: 
+
+Minimal tasks to complete and faster runtime to accomplish a certain task 
+
+Inefficient algorithm: 
+
+More tasks to complete including redundancy and unnecessary steps and 
+result in slower time to accomplish the task 
+
+
+
+
+
+
+
+
